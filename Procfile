@@ -1,1 +1,1 @@
-web: gunicorn southut.wsgi
+web: gunicorn southtut.wsgi
